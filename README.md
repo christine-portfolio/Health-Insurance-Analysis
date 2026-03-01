@@ -14,6 +14,6 @@ It explores average rates, efficiency of tax credits and national impact on heal
 - How to visualize insights in Excel.
 
 ## Preview
-![Dashboard Screenshot](https://github.com/ChrysDom/E-commerce-sales-analysis/commit/adaf9290f33e609b8c0f9a2cfd8a7dacf4703567#diff-7f93c108ac236b5f1040e5d863c1bb8d443d626b5a17e5e071665f97bca025bb)
+![Dashboard Screenshot](https://github.com/christine-portfolio/Health-Insurance-Analysis/commit/f4849f9f8e91bfa540e50bbdf809e2b31a12b50f)
 
 >Click the image above to see a preview of the final dashboard.
